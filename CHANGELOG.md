@@ -1,3 +1,16 @@
+## [0.5.2] - 5/17/2019
+- fix zooming issue (#281)
+
+## [0.5.1] - 5/17/2019
+
+- add mbtiles
+- add formatting and linter rules
+- Fix null pointer in isOutOfBounds (#274)
+- add isUserGesture (#237)
+- fix emulator pinching error
+
+Thanks to @avbk, @OrKoN, @pintomic, @wmcshane, @manhluong for this release!
+
 ## [0.5.0] - 2/21/2019
 
 - add cached network image support (#204)
